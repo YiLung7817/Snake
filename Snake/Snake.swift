@@ -10,7 +10,7 @@ import UIKit
 
 class Snake: NSObject {
 
-
+ssss
 ssss
 
 
